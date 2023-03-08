@@ -1,3 +1,4 @@
+![dblhlf](https://user-images.githubusercontent.com/126116482/223769662-41178bbf-dd2c-4e55-8044-4e94fe8420ba.png)
 # Double-or-Half
 
 *A GUI program built with Tkinter created in the fall of 2022 for SDEV 140: Intro to Software Development*
